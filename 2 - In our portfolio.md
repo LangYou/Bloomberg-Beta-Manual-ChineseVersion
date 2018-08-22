@@ -1,4 +1,4 @@
-Founders + Companies
+Bloomberg Beta founders and their startups
 ========
 
 Founders are our customers. In order of our announced participation:
@@ -8,13 +8,13 @@ Founders are our customers. In order of our announced participation:
 |:--------|:----------|
 | [Jonah Varon](https://www.linkedin.com/in/jonahvaron), [Axel Hansen](https://www.linkedin.com/pub/axel-hansen/25/aa/7ab)  | **[Newsle](https://newsle.com/)**<sup>*</sup> |
 | [Charlie Robbins](https://twitter.com/indexzero) | **[Nodejitsu](https://www.nodejitsu.com/)**<sup>*</sup> |
-| [Jon Lee](https://www.linkedin.com/in/jonlee168) | **[ProsperWorks](https://www.prosperworks.com/)** |
+| [Jon Lee](https://www.linkedin.com/in/jonlee168) | **[Copper](https://www.copper.com/)** |
 | [Paul Dix](https://twitter.com/pauldix), [Todd Persen](https://www.linkedin.com/in/toddpersen) | **[InfluxData](http://influxdata.com/)** |
 | [Zach Sims](https://twitter.com/zsims), [Ryan Bubinski](https://www.linkedin.com/in/ryanbubinski) | **[Codecademy](http://www.codecademy.com/)** | 
 | [Satya Patel](https://twitter.com/satyap), [Hunter Walk](https://twitter.com/hunterwalk) | **[Homebrew](http://homebrew.co/)** | 
 | [Stephen Purpura](https://www.linkedin.com/in/spurpura) | **[Context Relevant](http://www.contextrelevant.com/)** |
 | [Ron Palmeri](https://twitter.com/RonP), [Tomaž Štolfa](https://twitter.com/tomazstolfa) | **[Layer](https://layer.com/)** | 
-| [Naval Ravikant](https://twitter.com/naval), [Babak Nivi](https://www.linkedin.com/in/bnivi) | **[AngelList](https://angel.co/)**<sup>*</sup>| 
+| [Naval Ravikant](https://twitter.com/naval), [Babak Nivi](https://www.linkedin.com/in/bnivi) | **[AngelList](https://angel.co/)**| 
 | [Anil Dash](http://dashes.com/anil/), [Gina Trapani](https://twitter.com/ginatrapani) | **[ThinkUp](https://www.thinkup.com/)** | 
 | [Sandi MacPherson](http://quibb.com/sandimacpherson) | Quibb | 
 | [Jason Hirschhorn](https://twitter.com/JasonHirschhorn) | **[REDEF](http://www.mediaredefined.com/)** | 
@@ -25,7 +25,7 @@ Founders are our customers. In order of our announced participation:
 | [Satyen Sangani](https://www.linkedin.com/in/ssangani) | **[Alation](http://alation.com/)** |
 | [Amit Gupta](https://www.linkedin.com/in/amitngupta) | **[Opensense (formerly SenderGen)](https://www.opensense.com/)** |
 | [K.V. Rao](https://www.linkedin.com/pub/k-v-rao/0/48/517) | **[Aviso](http://www.aviso.com/)** |
-| [Nadim Hossain](https://www.linkedin.com/in/nadimhossain), [Nisheeth Ranjan](https://www.linkedin.com/in/nranjan), [Ranjan Bagchi](https://www.linkedin.com/in/rbagchi) | **[BrightFunnel](http://www.brightfunnel.com/)** |
+| [Nadim Hossain](https://www.linkedin.com/in/nadimhossain), [Nisheeth Ranjan](https://www.linkedin.com/in/nranjan), [Ranjan Bagchi](https://www.linkedin.com/in/rbagchi) | **[BrightFunnel](http://www.brightfunnel.com/)**<sup>*</sup> |
 | [Alex Rampell](https://twitter.com/arampell), [Pasha Bitz](https://twitter.com/pashabitz), [Jonathan Wolf](https://www.linkedin.com/in/jwolf) | **[TXN](http://txn.com/)** |
 | [Eric Tilenius](https://www.linkedin.com/in/tilenius), [Pratik Verma](https://www.linkedin.com/in/pratikrverma) | **[BlueTalon Data Systems](http://bluetalon.com/)** |
 | [Fred Seibert](https://twitter.com/fredseibert), [Yoel Flohr](https://uk.linkedin.com/in/flohr) | Thirty Labs |
@@ -69,7 +69,7 @@ Founders are our customers. In order of our announced participation:
 | [Stewart Butterfield](https://twitter.com/stewart) | **[Slack](https://slack.com/)** |
 | [Alexander García-Tobar](https://www.linkedin.com/in/alexgarciatobar), [Peter Goldstein](https://www.linkedin.com/in/petergoldstein) | **[ValiMail](http://www.valimail.com/)** |
 | [Anant Kale](https://www.linkedin.com/in/anantkale), [Kunal Verma](https://www.linkedin.com/in/kunalv) | **[AppZen](http://www.appzen.com/)** |
-| [Alberto Pepe](https://www.linkedin.com/in/albertopepe), [Nathan Jenkins](https://twitter.com/nathanjenkins12) | **[Authorea](https://www.authorea.com)** |
+| [Alberto Pepe](https://www.linkedin.com/in/albertopepe), [Nathan Jenkins](https://twitter.com/nathanjenkins12) | **[Authorea](https://www.authorea.com)**<sup>*</sup>|
 | [Kartik Mandaville](https://www.linkedin.com/in/kar2905)  | **[SpringRole](https://springrole.com)** |
 | [Chris Bach](https://twitter.com/chr_bach), [Mathias Biilmann](http://mathias-biilmann.net/about) | **[Netlify](https://www.netlify.com/)** |
 | [Shinji Kim](https://www.linkedin.com/in/shinjikim), [Alexander Gallego](https://www.linkedin.com/in/alexandergallego)  | **[Concord Systems](http://concord.io/)**<sup>*</sup> |
@@ -81,8 +81,7 @@ Founders are our customers. In order of our announced participation:
 | [Itzik Ben-Bassat](https://twitter.com/ibenbassat), [Aviv Eyal](https://twitter.com/avive)  | GONG!|
 | [Ryan Tseng](https://www.linkedin.com/in/ryantseng), [Andrew Reiter](https://www.linkedin.com/in/andrewreiter), [Brandon Tseng](https://www.linkedin.com/in/brandontseng)  | **[Shield AI](http://shield.ai/)**
 | [Drew Conway](https://www.linkedin.com/in/drew-conway-13b5b013) | **[Alluvium](http://www.alluvium.io)**
-| [Travis Deyle](http://www.travisdeyle.com/), [Erik Schluntz](http://www.erikschluntz.com/portfolio/)| **[Cobalt Robotics](http://www.cobaltrobotics.com/)**
-| [Eyal Feldman](https://www.linkedin.com/in/feldmaneyal) | **[Stampli](https://www.stampli.com)**
+| [Travis Deyle](http://www.travisdeyle.com/), [Erik Schluntz](http://www.erikschluntz.com/portfolio/)| **[Cobalt Robotics](http://www.cobaltrobotics.com/)**|
 | [Adam Rogas](https://www.linkedin.com/in/adamrogas/), [Paul Korol](https://www.linkedin.com/in/paulkorol/), [Phil Vizzaccaro](https://www.linkedin.com/in/phil-vizzaccaro-5694b28/), [Eric Kay](https://www.linkedin.com/in/erickaylaw/)| **[NS8](https://www.ns8.com/)** |
 | [Pia Mancini](https://twitter.com/piamancini), [Xavier Damman](https://twitter.com/xdamman) | **[Open Collective](https://opencollective.com/)** |
 | [Tim Delisle](https://www.linkedin.com/in/tim-delisle-61357263/), [Bryan Russett](https://www.linkedin.com/in/bryanrussett/) | **[Datalogue](https://www.datalogue.io/)** |
@@ -99,6 +98,8 @@ Founders are our customers. In order of our announced participation:
 | [Beau Cronin](https://www.linkedin.com/in/beaucronin/), [Chris Diehl](https://www.linkedin.com/in/cpdiehl), [David Gutelius](https://www.linkedin.com/in/gutelius/)| **[The Data Guild](https://www.thedataguild.com/)** | 
 | [Cara Meverden](https://www.linkedin.com/in/carameverden/), [Saul Carlin](https://www.linkedin.com/in/saulcarlin/), [Daniel McCartney](https://www.linkedin.com/in/daniel-john-mccartney/)| **[Scout.fm](https://www.scout.fm/)** |
 | [Lukas Biewald](https://www.linkedin.com/in/lbiewald), [Chris Van Pelt](https://www.linkedin.com/in/chrisvanpelt/), [Shawn Lewis](https://www.linkedin.com/in/shawn-lewis-524a563/)| **[Weights & Biases](https://www.wandb.com/)** |
-| [Amol Sarva](https://www.linkedin.com/in/amolsarva), [Edward Shenderovich](https://www.linkedin.com/in/shenderovich)| **[Knotel](https://knotel.com)** |
+| [Amol Sarva](https://www.linkedin.com/in/amolsarva), [Edward Shenderovich](https://www.linkedin.com/in/shenderovich)| **[Knotel](https://knotel.com)** and **[Knotable](https://knote.com)** |
+| [Eyal Feldman](https://www.linkedin.com/in/feldmaneyal/), [Ofer Feldman](https://www.linkedin.com/in/oferfeldman/)| **[Stampli](https://www.stampli.com/)**|
+| [Mike Dudas](https://twitter.com/mdudas)| **[The Block](https://www.theblockcrypto.com)**|
 
 <sup>*</sup> Acquired :thumbsup:

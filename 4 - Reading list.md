@@ -1,4 +1,4 @@
-# Bloomberg Beta Reading List
+# Bloomberg Beta reading List
 
 The resources on this page cover a range of subjects we find useful to think about in our day-to-day lives as VCs. Like the rest of our manual, this is a living document, so please feel free to submit any suggestions via pull request!
 
@@ -21,6 +21,12 @@ The resources on this page cover a range of subjects we find useful to think abo
 * [StrictlyVC](https://www.strictlyvc.com/) (newsletter)
 * [AVC](https://avc.com/) (Fred Wilson — blog)
 
+### On going to market
+* [Don't Launch](http://www.startuplessonslearned.com/2009/03/dont-launch.html) (Eric Ries — article)
+* [Picking your first customers: the gradient of influence](https://also.roybahat.com/picking-your-first-customers-the-gradient-of-influence-47858b90adfd) (Roy Bahat — article)
+* [The Pyramid Principle](https://medium.com/lessons-from-mckinsey/the-pyramid-principle-f0885dd3c5c7) (Ameet Ranadive  — article). The classic principle on how to communicate in any business setting.
+* [Andrew Chen](http://andrewchen.co/) (newsletter)
+
 ### On practical aspects of building a company
 
 * [Default Alive or Default Dead](http://www.paulgraham.com/aord.html) (Paul Graham — article)
@@ -31,7 +37,6 @@ The resources on this page cover a range of subjects we find useful to think abo
 * [SaaS Financial Plan 2.0](https://christophjanz.blogspot.com/2016/03/saas-financial-plan-20.html) (The Angel VC — article with template)
 * [Stripe Atlas Guides](https://stripe.com/atlas/guides) (website)
 * [Zero To One](https://www.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296) (Peter Thiel — book)
-* [Andrew Chen](http://andrewchen.co/) (newsletter)
 
 ### On hiring and company culture
 
@@ -39,7 +44,7 @@ The resources on this page cover a range of subjects we find useful to think abo
 * [Who Should a Startup Hire First?](https://shift.newco.co/who-should-a-startup-hire-first-c12b279814aa) (Roy Bahat — article)
 * [We Hire the Best, Just Like Everyone Else](https://blog.codinghorror.com/we-hire-the-best-just-like-everyone-else/) (Jeff Atwood — article)
 * [Do Things That Don't Scale](http://paulgraham.com/ds.html) (Paul Graham — article)
-* [Explore vs Exploit](https://barryoreilly.com/2015/12/14/lean-pmo-explore-vs-exploit/) (Barry O’Reilly — article)
+* [Explore vs. Exploit](https://barryoreilly.com/2015/12/14/lean-pmo-explore-vs-exploit/) (Barry O’Reilly — article)
 * [The Guerilla Guide to Interviewing](https://www.joelonsoftware.com/2006/10/25/the-guerrilla-guide-to-interviewing-version-30/) (Joel Spolsky — article)
 * [Difficult Conversations](https://www.amazon.com/Difficult-Conversations-Discuss-What-Matters/dp/0143118447) (Sheila Heen, Bruce Patton, Douglas Stone — book)
 * [How to Hire](http://blog.samaltman.com/how-to-hire) (Sam Altman — article)

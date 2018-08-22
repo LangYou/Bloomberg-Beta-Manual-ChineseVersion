@@ -1,4 +1,4 @@
-Operating Manual
+Bloomberg Beta Operating Manual
 ================
 
 
@@ -9,7 +9,7 @@ Operating Manual
 * [What we look for in a startup](#what-we-look-for-in-a-startup)
 * [The deal terms](#the-deal-terms)
 * [Our “products,” or, models for how we work with founders](#our-products-or-how-we-work-with-founders)
-* [How we support our companies](#how-we-support-our-companies)
+* [How we support founders](#how-we-support-founders)
 * [Finding us](#finding-us)
 
 
@@ -110,7 +110,7 @@ We like products we ourselves would use and understand. We’ve been technology 
 We believe startups destined for greatness, in their earliest days, choose...
 + Only one model for how to sell, generally either directly to an individual or directly to a company (whereas many believe they can do both at first)
 + One type of person (e.g., role within a client company) to target as a customer, and specifically avoid trying to serve business and technical users with the same tool
-+ Will choose to target customers whose businesses are thriving, and specifically avoid customers in low- or no-growth, or low-margin businesses (e.g., most online publishing)
++ Target customers whose businesses are thriving, and specifically avoid customers in low- or no-growth, or low-margin businesses (e.g., most online publishing)
 
 If a product is launched, we care about how well it is doing -- the famous “traction” -- but we tend not to focus on absolute numbers. We focus on month-over-month (or, in earlier-stage cases, week-over-week) growth, ask questions about how different cohorts of users behave, and try to understand the per-user behavior (how much does any one user really value the product). At the earliest stages, we are most interested in evidence of customer love -- retention or intensity metrics, Net Promoter Score, or even anecdotal praise by customers for the product.
 
@@ -386,7 +386,7 @@ In some cases, we only seek to put a small amount of money to work (for example,
 
 The founders we back are our customers. We aspire to be the most useful investors per minute spent with us, and per dollar on the cap table. We want founders to want to work with us even if we weren't investors offering them money. (Though, for us to be willing to advise, we'd need the same level of conviction that we have when we're willing to invest.)
 
-We want to work with startups the way they work, not the way that big companies or traditional investors work. We prefer to take the formality out of the investor-founder relationship. Instead of requesting board seats and scheduling formulaic calls, we share with founders and encourage them to reach out to us when we can help. Consider us “on speed dial.” We try to cut waste out of the process; starting a company is hard enough. If you want regular check-ins, sure.
+We want to work with startups the way they work, not the way that big companies or traditional investors work. We prefer to take the formality out of the investor-founder relationship. Instead of requesting board seats and scheduling formulaic calls, we share with founders and encourage them to reach out to us when we can help. We've supported founders with everything from customer introductions to helping hire a critical new team member to sharing product feedback to thinking strategically about press. Consider us “on speed dial.” We try to cut waste out of the process; starting a company is hard enough. If you want regular check-ins, sure.
 
 Our team works closely together -- we speak often and love helping each other, and we each know the full portfolio -- so every portfolio company has access to every member of our team. We think this is different to some other venture firms we’ve met -- we try to be a “no dysfunction” partner to you.
 
@@ -436,7 +436,7 @@ Investing, to us, is really nothing more than the mechanism we use to find a way
 
 ### Events we host
 
-We invite founders to many events. We believe one way we can help companies is just by getting them out of the building. We get our founders together every so often with an extended group of our friends, and with each other. Once founders start to see familiar faces, they understand that we're building a community of mutual support. These events are completely optional, and sometimes have no direct usefulness at all.
+We invite founders to many events. We believe one way we can help companies is just by getting them out of the building. We get our founders together every so often with an extended group of our friends, and with each other. Once founders start to see familiar faces, they understand that we're building a community of mutual support. These events are completely optional, and sometimes have no direct usefulness at all (like our monthly game of [Werewolf](https://en.wikipedia.org/wiki/Mafia_(party_game)) in San Francisco).
 
 To bring worlds together, often we'll bring in an author, or a senior government official or business leader, or even an artist, to expose founders to ideas and people from outside the technology startup world. We invite portfolio company founders to every event, and some are only for them. When possible, we try to include the broader community in events we convene.
 
