@@ -26,12 +26,16 @@ Harley Sugarman — [Twitter](https://twitter.com/harleysugarman) // [LinkedIn](
 
 Minn Kim — [Twitter](https://twitter.com/minney_cat) // [LinkedIn](https://www.linkedin.com/in/minnkim/)
 
+Taylor Wentz Brown - [LinkedIn](https://www.linkedin.com/in/taylorawentz/)
+
+Maria Sharp - [LinkedIn](https://www.linkedin.com/in/maria-sharp-991966160)
+
 Shivon Zilis — [Twitter](https://twitter.com/shivon) // [LinkedIn](https://www.linkedin.com/pub/shivon-zilis/7/b35/281)
 
 Shaina Conners — [Twitter](https://twitter.com/shainaconners) // [LinkedIn](https://www.linkedin.com/in/shainaconners)
 
 ### Where we work
-San Francisco — [140 New Montgomery St., 22nd Floor](http://goo.gl/49X6hu)
+San Francisco — [140 New Montgomery St., 22nd fl](http://goo.gl/49X6hu)
 
 New York — [731 Lexington Ave.](http://goo.gl/tt3m7f)
 
