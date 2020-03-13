@@ -4,6 +4,8 @@ Bloomberg Beta Operating Manual
 
 
 ## Contents
+
+* [Our creed](#our-creed)
 * [Our investor, Bloomberg L.P.](#our-investor-bloomberg-lp)
 * [What we believe about the future of work](#what-we-believe-about-the-future-of-work)
 * [What we look for in a startup](#what-we-look-for-in-a-startup)
@@ -12,7 +14,13 @@ Bloomberg Beta Operating Manual
 * [How we support founders](#how-we-support-founders)
 * [Finding us](#finding-us)
 
+## Our creed
 
+We believe work must be more productive, fulfilling, and inclusive. 
+
+Our waking hours must engage the best in us and provide for our needs and wants -- and the world we live in too often fails to offer that.
+
+We believe technology startups play an essential role in delivering a better future. We can speed the arrival of that future by investing in the best startups that share these intentions.
 
 ## Our investor, Bloomberg L.P.
 
@@ -26,7 +34,7 @@ Why did Bloomberg L.P. create Bloomberg Beta? Bloomberg wants a window into the 
 
 Bloomberg L.P. invested in Bloomberg Beta to open that window to startups, and set up a structure that is rare for a corporate-sponsored firm — a true fund that invests for financial return, not an “operating division.” Bloomberg knows that great founders want investors whose interests are fully aligned with their own.
 
-So Bloomberg Beta is set up to choose its own investments, and back companies solely on their merits and financial potential, regardless of whether they have (or intend to have) a business relationship with Bloomberg. We do focus exclusively on areas that are of relevance to Bloomberg -- we wouldn’t invest in a videogame, or a consumer e-commerce site for example. One way to think of our focus: we look at the future of work. If you’re focused on making leisure or family life better, we’re probably not your people.
+So Bloomberg Beta is set up to choose its own investments, and back companies solely on their merits and financial potential, regardless of whether they have (or intend to have) a business relationship with Bloomberg. We do focus exclusively on areas that are of relevance to Bloomberg -- we wouldn’t invest in a videogame, or a consumer e-commerce site for example. One way to think of our focus: we look at the future of work.
 
 We believe we can take the Bloomberg ethos and apply it to how we work with founders: putting our customers (founders!) first, developing deep expertise in our domain (the future of work), and convening different spheres (from every walk of life) to bring new experiences to our customers.
 
@@ -78,26 +86,28 @@ We also do background checks on founders where we search public records. Almost 
 
 ### Inclusion and diversity
 
-We are committed to making the startup world welcoming to people of all backgrounds -- from our own team, to the founding teams we serve and the companies they build. Startups start with seeing the world anew, and people with different backgrounds see the world differently – so if we want to remake things, we need to enlist people with as wide a range of backgrounds as possible.
+We are committed to [making the startup world welcoming](https://www.inclusionintech.com/) to people of all backgrounds -- from our own team, to the founding teams we serve and the companies they build. Startups start with seeing the world anew, and people with different backgrounds see the world differently – so if we want to remake things, we need to enlist people with as wide a range of backgrounds as possible.
 
 We focus our proactive sourcing outreach on seeking out founders from underrepresented communities. We define diversity broadly, including inherent and acquired forms of diversity like gender, race, ethnicity, sexual orientation, age, socioeconomic class, geography, nationality, education, and others.
 
-We are proud of the diversity of our team (e.g., our partnership is 50-50 female-male, we only have one white male team member, and our team is more than half women). We believe groupthink is dangerous in venture capital, and that different perspectives demand different backgrounds. A diverse and inclusive team also just makes for a better experience for us.
+We are proud of the diversity of our team (e.g., our partnership is 50-50 female-male, and our team is more than half women). We believe groupthink is dangerous in venture capital, and that different perspectives demand different backgrounds. A diverse and inclusive team also just makes for a better experience for us.
 
-That said, we are disappointed in our performance backing enough founders from underrepresented backgrounds. For example, only 9% of the CEOs we have backed are women and only 17% of founding teams we have backed include a female founder. We would like to accurately track other forms of diversity, though we avoid asking our founders to submit any mandatory data to us, so this is difficult. (We struggled with whether to set a goal for future portfolio composition: on the one hand, we want the goal to be something we can control and achieve, and on the other hand, any goal less than 50% feels inadequate and the only goal that matters is the end of our pipeline, backed companies.)
+That said, we are still disappointed in our performance backing enough founders from underrepresented backgrounds. For example, only 10% of the CEOs we have backed are women and only 25% of founding teams we have backed in the last two years include a female founder. We would like to accurately track other forms of diversity, though we avoid asking our founders to submit any mandatory data to us, so this is difficult. (We struggled with whether to set a goal for future portfolio composition: on the one hand, we want the goal to be something we can control and achieve, and on the other hand, any goal less than 50% feels inadequate and the only goal that matters is the end of our pipeline, backed companies.)
 
 We believe progress requires an accumulation of many small decisions over years – [trust takes time](http://also.roybahat.com/post/91847335194/the-trust-thing). That said, we commit to act now. Specifically:
 + Our most significant effort to reach new founders is our Future Founders community, where we use data to predict who will start a company. [Our group of Future Founders is much more diverse](https://www.nytimes.com/2015/07/02/upshot/the-next-mark-zuckerberg-is-not-who-you-might-think.html?_r=0) than the current population of venture-backed founders (the group is, for example, 28% female, though of course we want to get it to 50%).
 + As part of our formal criteria for picking investments we want to make, [we only invest in founders we believe are capable of creating a diverse company and an inclusive culture.](https://github.com/Bloomberg-Beta/Manual/blob/master/3%20-%20Criteria%20for%20investing.md#founders-and-team-2) If a startup we back fails to create a diverse and inclusive culture, we would feel regret regardless of how well the company performed financially.
-+ We host open office hours -- only for founders who come from an underrepresented background. Any Friday from 1-2pm PT, you can DM [the head of our fund](http://twitter.com/roybahat) on Twitter and we’ll happily talk with you.
-+ We commit to double, by July 2018, the number of woman-led companies we actively consider for investment each month to 10. (By “active consideration” we mean the stage in our pipeline just before we make an offer -- where we meet, usually more than once, and begin to do some diligence work.)
++ We host open "office hours" online -- only for founders who come from an underrepresented background. Any Friday from 1-2pm PT, you can DM [the head of our fund](http://twitter.com/roybahat) on Twitter and we’ll happily arrange to talk with you by phone or chat.
++ We nearly doubled the number of companies with female founders who we actively consider for investment each month (from 5 to 9 per month), though we'd like to increase that to half of the companies we consider, currently at 30%. (By “active consideration” we mean the stage in our pipeline just before we make an offer -- where we meet, usually more than once, and begin to do some diligence.)
 + When invited to speak at an industry event, we ask whether there is someone from an underrepresented community speaking alongside us (e.g., on a panel).
 + When we host our own events, we examine our invitation lists for diversity. (See, for example, our [yearlong commission on the effect of technology on the future of work](https://shiftcommission.work/findings-of-shift-the-commission-on-work-workers-and-technology-a071bc169df0).)
 + We are hosting an annual "[Turpentine Talk](https://www.highly.co/hl/56e6f2323533356aeb5a0000)" (our roughly-monthly founder-to-founder tactical learning events for our portfolio) on the subject of building a diverse and inclusive team.
 + We were inaugural members of [theBoardlist](https://theboardlist.com/our-community), which helps companies find female board members.
++ We are participating in [#MovingForward](https://wearemovingforward.github.io), joining other VC’s to commit to foster a diverse, inclusive, and harassment-free workplace.
++ We sponsored a scholarship at [Opportunity Hub](https://opportunityhub.co) to send a student from an underrepresented background to SXSW.
 + We will update the performance metrics we’ve published here (e.g., on the gender composition of our portfolio CEOs) at least annually.
 
-We believe we need to hold ourselves accountable. As one measure, if a founder ever has an issue with our fund or our team, the founder can make a report to a Bloomberg representative, Kate Wheatley -- kate.wheatley@bloombergbeta.com -- who happens to be the lead HR partner for all Bloomberg business leaders. We are accountable to our source of capital, and we follow [Bloomberg's policies](https://data.bloomberglp.com/company/sites/39/2018/04/2017-Appendix.pdf) -- which cover our interactions with customers (i.e., founders).
+We believe we need to hold ourselves accountable. As one measure, if a founder ever has an issue with our fund or our team, the founder can make a report to a Bloomberg representative, Drew Gulley -- drew.gulley@bloombergbeta.com. We are accountable to our source of capital, and we follow [Bloomberg's policies](https://data.bloomberglp.com/company/sites/39/2018/04/2017-Appendix.pdf) -- which cover our interactions with customers (i.e., founders).
 
 We believe a community of companies is stronger the more different viewpoints come to the table, and intend to actively participate in creating a more inclusive and diverse technology industry.
 
@@ -116,7 +126,7 @@ If a product is launched, we care about how well it is doing -- the famous “tr
 
 ### Stage
 
-We strongly prefer to be the first money into a company, and to invest as early in the startup's life as possible. If a startup incorporates itself to take money from us, that's great.
+We strongly prefer to be the first money into a company, and to invest as early in the startup's life as possible. If a startup incorporates itself to take money from us, that's great. Should you call us if you have yet to even start a company? [YES](https://github.com/Bloomberg-Beta/Manual/blob/master/1%20-%20Manual.md#beacon).
 
 This isn’t so much a rational investment calculation (arguably there is less competition to write bigger, later checks) -- but it’s a matter of our style. An early investment is less of a transaction and more of a relationship. We do make exceptions for certain reasons (e.g., a founder or company we just couldn’t resist).
 
@@ -130,7 +140,7 @@ Greatness can start anywhere. We're a small team with a modest-sized fund, thoug
 
 The same is true for startups that are headquartered in one of our hometowns and have an initial market elsewhere (e.g., a company in San Francisco focused on doing something in India). We believe companies should be as close to their customers as possible, and we want to deeply understand a startup's potential customers -- that's difficult when it's targeting customers in markets that are far from where we have expertise and relationships.
 
-We have invested outside of San Francisco and New York a handful of times (DC, Toronto, Seattle, Boston, Austin, etc.), though we need an exceptional reason (and often it's when we already know and trust the team).
+We have invested outside of San Francisco and New York a handful of times (DC, Toronto, Seattle, Boston, Austin, etc.), though we need an exceptional reason (and often it's when we already know and trust the team). We've led a [couple](https://www.recode.net/2018/3/30/17177834/midwest-heartland-bus-tour-comeback-cities-rust-belt-safari-vc-venture-capital-founders-washington) of [tours](https://techcrunch.com/2018/11/11/placing-bets-beyond-the-venture-hubs-of-new-york-and-silicon-valley/) of newer startup markets (aka "Comeback Cities" tours), where we visit with VCs and members of Congress to learn what it takes to invest there -- and we're still exploring whether we can deliver on our standard for founder service in other markets.
 
 ### Sources
 
@@ -146,25 +156,21 @@ We also try a lot of products. Our phones have many, many apps installed. And we
 
 We keep track of companies we’ve been in touch with -- just like we’d hope that our companies do, we have an organized system for our outreach. In general, we try to run our fund with the same tools our companies use.
 
-We also created the Open Angels program to deepen relationships with a handful of angels we trust. With the program, administered through AngelList syndicates, we back every deal our Open Angels do at a fixed ratio with their personal investment. We are not direct investors in their portfolio companies and each Angel manages their relationship with companies. Our intent is to support people we trust, and extend our fund to support many more companies, not to create direct deal flow for us. (In fact, sometimes our Open Angels might invest in companies competitive to ones in our portfolio -- since we have no visibility into details about those companies, and we're obligated to back them if our Open Angels do, we can continue to serve our portfolio companies effectively. We treat this situation the same way as if we'd invested in a venture fund that backed a startup competitive to one of ours.)
-
-Our Open Angels include [Max Simkoff](https://angel.co/max-simkoff/syndicate), [Jim Greer](https://angel.co/jim-greer/syndicate), [Michael Wellman](https://angel.co/mwellman-virgilsecurity-com), [Lee Edwards](https://angel.co/leeredwards-gmail-com/syndicate), [Parker Thompson](https://angel.co/pt/syndicate), [Dennis Pilarinos](https://angel.co/dennis-pilarinos-s-syndicate/syndicate), and [Edith Harbaugh](https://angel.co/edith-harbaugh-angel-fund/angel-fund).
-
 ### “Themes”
 
 Our focus is investing in startups that improve work -- and knowledge work in particular.
 
-We have doubts about the effectiveness of theme-based investing. The best founders can surprise an investor with an unexpected take on a category. That said, there are areas our team has grown to care about and learn about. We only want to invest in companies where we believe we have enough understanding to be enormously valuable to our founders, and to have good enough judgment to support founders through thick and thin.
+We have doubts about the effectiveness of theme-based investing. The best founders can surprise an investor with an unexpected take on a category. That said, there are areas our team has grown to care about and learn about. We only want to invest in companies where we believe we have enough understanding to be enormously valuable to our founders, and to have good enough judgment to support founders through thick and thin. 
 
 [Machine intelligence](http://www.shivonzilis.com/machineintelligence) crosses all the areas we care about, and we have treated it as our main interest area for several years now. We believe machine intelligence will transform every industry and every function -- and we focus on its effects on business. We believe [machine intelligence will be like electricity](http://www.wired.com/2014/10/future-of-artificial-intelligence/): cheap, convenient, and on-demand. We want to back the founders ushering this future into the now.
 
-Areas where we’ve invested include: content discovery, cybersecurity, data sets and services, developer tools, full-stack startups who use technology to compete in a new way, hardware, human-computer interaction, learning, media distribution, new organizational models, open source software, productivity tools, professional networks, technology platforms, workflow tools, workplace communication. 
+Areas where we’ve invested include: content discovery, cybersecurity, data sets and services, developer tools, full-stack startups who use technology to compete in a new way, hardware, human-computer interaction, learning, media distribution, new organizational models, open source software, productivity tools, professional networks, real estate, technology platforms, workflow tools, workplace communication.
 
 We avoid investments in financial services companies that intend to compete with Bloomberg clients.
 
 Sometimes founders mistakenly assume that we avoid “consumer” companies entirely. There are many individual-facing businesses that we’d fund -- they just need to help a person at work. (Typically “enterprise” businesses sell to a company, and these individual-facing services sell to the end user directly.) Ask us if you are unsure if you fit in our scope!
 
-We do avoid, for example, e-commerce and entertainment because they tend to serve people outside their work capacity. There are also other areas that intersect with the future of work where we know too little to be confident, e.g., retail, travel, local, heavy industry, and medical services.
+We do avoid, for example, e-commerce and entertainment because they tend to serve people outside their work capacity. There are also other areas that intersect with the future of work where we know too little to be confident, e.g., retail, travel, local, heavy industry, and medical services. We also believe we play a role in how the future of work evolves, so we'll (politely) pass on investing in what may be highly successful companies but don't fit into a vision of a world we want to live in.
 
 ### “The Deck”
 
@@ -191,7 +197,9 @@ We also ignore, in most cases, long-term financial projections -- except to the 
 
 That said, we do care about the short-term financial plan, especially on the choices founders directly control. How many people do you intend to hire, where will you spend the money? This helps us figure out how much time you will have before you need more capital, and how far we believe you can get in that amount of time. We prefer to see early-stage companies spending their capital on building product.
 
-Put another way, a five-year financial plan is mostly useless for early stage companies -- a monthly plan for the next twelve months and a quarterly plan for the next two years could be very useful.
+Put another way, a five-year financial plan is mostly useless for early stage companies -- a monthly plan for the next twelve months and a quarterly plan for the next two years could be very useful. 
+
+We would love to see all of it, whether perfect or otherwise so give us anything you've already made -- financial model, deck, background materials. It helps us make sure our conversation is more dialogue than exposition.
 
 ### In-person meetings
 
@@ -206,7 +214,7 @@ Some things we tend to say, ask, or think in meetings:
 * What was the last important skill you learned? (We believe great founders are, paradoxically, both self-confident and exceptionally good learners -- so constantly in need of improvement.) What was the last thing you were wrong about?
 * What do you want out of your investors other than money? (We’re trying to figure out if we can be uniquely helpful.)
 * If a dozen other companies are creating a company right now with this exact idea, how could you still succeed?
-* Who will you pick as your [first customers](http://also.roybahat.com/post/84933343626/picking-your-first-customers-the-gradient-of-influence)? (This tends to be, in our view, one of the most important early choices founders make.) Who was the last potential customer you spoke with? (Founders who are scared of talking to customers scare us.)
+* Who will you pick as your [first customers](https://also.roybahat.com/picking-your-first-customers-the-gradient-of-influence-47858b90adfd)? (This tends to be, in our view, one of the most important early choices founders make.) Who was the last potential customer you spoke with? (Founders who are scared of talking to customers scare us.)
 * How close do you feel you are to product-market fit? (Here, it's less that we want you to *have* product-market fit, and more that we want to understand how you think about your own progress wherever you are.)
 * Are there any plans you really would like to pursue, but have stopped talking about with investors because you've been told by VCs they are bad ideas? (We often like those plans.)
 * If you're successful, what potential harms might your service cause, and what will you do about that? What's been the most difficult ethical dilemma you've had at work? (Credit to our friends at [Designer Fund](http://designerfund.com) for putting in our heads some of these specific questions about the ethical side of startups.)
@@ -245,40 +253,32 @@ We call as many references as we can find.
 
 We have an “anyone can say yes” policy. Yes, any of our team members can say yes. And no, you don’t have to meet my other partners. We believe the best founders and companies are polarizing. Our best investments might have been, originally, opposed by one or more of our partners. Teams are great at gathering information and surfacing wisdom, but terrible at making decisions. We believe in individual accountability -- if anyone can say yes, then everyone feels the weight of making a decision. (That said, we do require that before anyone says yes they mention the investment to the rest of us -- that way they get the benefit of the team’s input, and it’s a good way to slow down and think for a second.)
 
-We value each others’ opinions and seek them out. Our team is unusual in that we don’t (yet!) have any of the “partner issues” we hear about at other funds. In other funds, it's the worst of both worlds -- founders lack clarity about how investments get approved, and in some firms the partners become resentful of one another's power to approve each others' investments and then do little to support another partners' companies.
+We value each others’ opinions and seek them out. Our team is unusual in that we don’t (yet!) have any of the “partner issues” we hear about at other funds. In other funds, it can be the worst of both worlds -- founders lack clarity about how investments get approved, and in some firms the partners become resentful of one another's power to approve each others' investments and then do little to support another partners' companies.
 
 We believe in each others’ talents, trust each other enough not to mind when someone is wildly wrong, and enjoy each others’ views. We talk as a full group twice a week, to think out loud about companies we’ve invested in or might invest in, and we meet for a full few days once every couple of months.
 
 Because any one of us is empowered to “yes” a deal, we all share and share alike on helping each others’ deals succeed. “Before the investment, it’s your deal; after the investment, it’s our deal.”
 
-When we talk about companies, we find ourselves asking questions like:
-* Why do we believe this company has a shot at doing something unique and potentially revolutionary?
-* How do we like the product or, if the product isn’t yet built, the planned approach? Do we think users will *love* the product? Will they like it enough to convince their closest friends / colleagues to use it?
-* Do we really believe we understand this product or team better than others?
-* How useful can we really be to this company -- are we “just a check” -- and if the company succeeds, how likely is it that we’ll be able to continue to support them?
-* If the company goes sideways, do we have enough confidence in our conviction to feel supportive and know how to help?
-* When will the company need more capital, and what will it need to accomplish before it can earn that capital?
+We have posted in public [our criteria for deciding whether to invest](https://github.com/Bloomberg-Beta/Manual/blob/master/3%20-%20Criteria%20for%20investing.md). When we talk about companies, we use those criteria. 
 
 We’ve had investments where the founder only ever met one person on our team before we invested (though, afterward we all want to meet our companies so we can help them). In practice, each of us often asks the founders if they’d like to meet one of our other colleagues because the founders will get a better feel for us, and because we like and respect our colleagues.
 
-We've noticed something about our "anyone says yes" approach: over time, we've each gravitated toward different styles of companies. Some of us prefer companies before they've even incorporated, others once they've committed some code (sometimes the code happens before incorporation, that's OK, too). If you get to any one of us, we'll each have a feel for who on our team is most likely to say yes to you -- and that's the person we'll try to steer you toward.
+We've noticed something about our "anyone says yes" approach: over time, each of us has gravitated toward different styles of companies. Some of us prefer companies before they've even incorporated, others once they've committed some code (sometimes the code happens before incorporation, that's OK, too). If you get to any one of us, we'll each have a feel for who on our team is most likely to say yes to you -- and that's the person we'll try to steer you toward.
 
-In practice, here are your odds: we have invested in 2% of the companies we have spent time reviewing.
+In practice, here are your odds: we have invested in 1.5% of the companies we have spent time reviewing.
 
 ### Our deal memo
 
-Before we invest, we write a “note to self” outlining our views. We do this so we can be as disciplined about our commitments as founders are about their commitments. We also share this note with a small advisory group at Bloomberg L.P.
+Before we invest, we write a brief “note to self” outlining our views. We do this so we can be as disciplined about our commitments as founders are about their commitments. We also share this note with a small advisory group at Bloomberg L.P.
 
 In order of importance, we write about:
 * The founders’ vision
-* Our thoughts on the founding team, and what our diligence calls revealed (including how we met the team)
+* Our thoughts on the founding team
 * Why we are excited about the company
 * If the product is built, what we think of it and how well it is doing
-* Ways we plan to help
-* Whether Bloomberg L.P. can help the company and whether the company, in success, could create benefits for Bloomberg L.P. (this is not a criterion for investing, but something we want to know -- to best realize that potential opportunity later)
 * What we believe the company needs to do to succeed (or make the next major milestone, like a further round of funding)
 * The terms of the deal
-* Other stuff: competition, market size (to the extent we can tell), use of the funding, business model (in our experience it is usually either unknowable or obvious, and not worth much mental energy either way)
+* Other stuff: competition, market size (to the extent we can tell), use of the funding, business model (in our experience it is usually either unknowable or obvious, and not worth much mental energy either way), what we learned in diligence
 
 ### How long it takes
 
@@ -298,7 +298,7 @@ We intend to always give a clear “no” with straightforward reasoning. That r
 
 ## The deal terms
 
-Our goal, particularly with first-time founders, is to explain what we want and why in plain language. We want to act in a way where, if our asks were widely publicized, we’d be proud of them.
+We want founders to know what to expect when they work with us before they get to the first meeting, and understanding how we think about deal contracts is an important part of that process. Our legal process is thorough, and we diligently review all documents. To help with that, we have published the templates we use for our [investment documents](https://github.com/Bloomberg-Beta/Investment-Documents). We recommend reading the accompanying [blog post](https://medium.com/@hjs/were-open-sourcing-our-investment-documents-f96b6e8c40e5), that explains these documents.
 
 ### How much risk do we take
 
@@ -323,6 +323,8 @@ We care about getting pro rata rights. This means that if a founder offers anoth
 We also want to approve of any investments you take that might get their capital repaid before ours.
 
 We care about getting some information rights -- basically the ability for us to understand how well the company is doing, and its financials.
+
+We go into much more detail in our public [explanation of our investment documents](https://medium.com/@hjs/were-open-sourcing-our-investment-documents-f96b6e8c40e5).
 
 ### The numbers
 
@@ -358,13 +360,11 @@ We only want founders to hire us as their investor after careful consideration o
 
 ### Following on
 
-Because we have a relatively big fund ($75M) for writing modest initial checks, we do plan to devote an unusually large proportion of our fund’s resources to following on. We will deploy our capital over the usual length of time for a fund: five years or so for all our initial investments, and then follow-on capital after that. We do not have a specific timetable for expected returns, one of the benefits of having a single LP with a long-term focus.
+Because we have relatively big funds (compared to the size of our initial checks), we do devote an unusually large proportion of our funds' resources to following on. We will deploy our capital over the usual length of time for a fund: three years or so for all our initial investments, and then follow-on capital after that. One of the benefits of having a single LP with a long term focus is that we avoid setting a specific timetable for expected returns.
 
-We won’t follow on in every investment, but if we are excited about putting in more money we might want to follow on for 5x our initial investment -- or more. That said, there will also be situations where a company evolves in a way where -- even though it is still a great company -- it would benefit more from another investor’s capital than from ours, so we might not always follow on in great companies.
+We won’t follow on in every investment, but if we are excited about putting in more money, we might want to follow on for 5x our initial investment -- or more. That said, there will also be situations where a company evolves in a way where -- even though it is still a great company -- it would benefit more from another investor’s capital than from ours, so we might not always follow on in great companies.
 
-We're happy to invest outside of what is typically considered "a round" -- there are some companies where we've invested multiple times in between more formal rounds.
-
-If asked, we’re happy to be explicit about the conditions under which we’d ask to put more capital into a company. Generally, when a team's initial bets prove to be right...
+Unlike our initial investments (where we have an "anyone can say yes" [policy](https://github.com/Bloomberg-Beta/Manual/blob/master/1%20-%20Manual.md#how-we-decide)), our follow-investments are consensus-driven decisions. Therefore, we have a much more structured [process](http://tiny.cc/betafollowons), where we typically ask founders to present their latest plans to the entire team.
 
 ### “Standard terms”
 
@@ -379,6 +379,14 @@ We think of our “products” as offerings of support and capital to a company,
 ### “Seed”
 Our preference is to be the first money into a company, and to contribute a meaningful amount of capital. This is the core of what we do, and it reflects roughly 90% of the dollars we invest. We want to be able to add capital, sometimes even increasing our ownership stake, as the company evolves. While we lack a specific ownership percentage target, we try to get meaningful ownership given the stage of the company -- in practice, this can be 5-15% depending on how far the company’s progressed. (It’s difficult to generalize because, in startups, exceptions are the rule. We also find that hard ownership targets can make it more difficult to form a syndicate with other investors who can be helpful.)
 
+### "Open Angels"
+We created the Open Angels program to deepen relationships with a handful of angels we trust. We back every deal our Open Angels do at a fixed ratio with their personal investment. We are not direct investors in their portfolio companies and each Angel manages their relationship with companies. Our intent is to support people we trust, and extend our fund to support many more companies, not to create direct deal flow for us. (In fact, sometimes our Open Angels might invest in companies competitive to ones in our portfolio -- since we have no visibility into details about those companies, and we're obligated to back them if our Open Angels do, we can continue to serve our portfolio companies effectively. We treat this situation the same way as if we'd invested in a venture fund that backed a startup competitive to one of ours.)
+
+Our Open Angels include [Ivan Kirigin](https://angel.co/ivan-kirigin/syndicate/), [Amir Shevat](https://angel.co/invest-with-amir-shevat/syndicate), [Max Simkoff](https://angel.co/max-simkoff/syndicate), [Jim Greer](https://angel.co/jim-greer/syndicate), [Michael Wellman](https://angel.co/mwellman-virgilsecurity-com), [Parker Thompson](https://angel.co/pt/syndicate), [Dennis Pilarinos](https://angel.co/dennis-pilarinos-s-syndicate/syndicate), and [Edith Harbaugh](https://angel.co/edith-harbaugh-angel-fund/angel-fund).
+
+### "Beacon"
+We believe that there are exceptional individuals with great ideas who likely have the skills to build a company but lack the network or personal financial means to get started. So we will invest a small amount of capital -- $50K (for roughly 2% of the startup idea you pursue) -- to support very, very early-stage founders explore an idea, validate a key hypothesis, or build an early prototype. Given the low cost of building software today, these small checks are intended to help founders test new ideas cheaply while avoiding excess dilution too early. We also believe that these investments have potential to increase diversity in the founder community, an effort we support through our [Future Founders](https://www.nytimes.com/2015/07/02/upshot/the-next-mark-zuckerberg-is-not-who-you-might-think.html) program. In our experience, the very best founders know how to experiment, iterate, and we were inspired to experiment backing people as soon as we can possibly justify it. [Read more on the why, what we look for, and deal terms here.](https://medium.com/@minnkim/introducing-bloomberg-beta-beacon-52a65e5cba82)
+
 ### “Flag”
 In some cases, we only seek to put a small amount of money to work (for example, in rounds where the founder is fortunate to have many investors who want to support the company, or it is a later-stage company), and it is unlikely we will invest more. In these cases, our support is as much symbolic as it is financial -- we want to be part of something, even though we know it is unlikely to be an investment that is meaningful to our fund financially. A typical check for these investments might be $50K. While these investments have access to all the services we offer our portfolio, given our lower ownership stake we’re less able to pay proactive attention to these companies and we want to set clear expectations up front about what kinds of startups the founder will likely consider competitive.
 
@@ -392,17 +400,17 @@ Our team works closely together -- we speak often and love helping each other, a
 
 ### Areas where we tend to be most useful
 
-While we’re happy to help companies across the full range of early-stage company questions -- recruiting, fundraising (should I take more money or call it a day?), services (who do I use for HR?) -- we concentrate on the range of skills loosely called “going to market.” Our focus on the future of work means that we may know your market well, or your business model.
+While we’re happy to help companies across the full range of early-stage company questions -- recruiting (how to seal the deal for a critical early hire?), fundraising (should I take more money or call it a day?), services (who do I use for HR?) -- we concentrate on the range of skills loosely called “going to market.” Our focus on the future of work means that we may know your market well, or your business model.
 
-To us, going to market includes finding product-market fit, pricing, segmenting your market, sequencing your approaches to potential users or customers, understanding when to review and when to ignore the competition, using the various organic marketing tools, paid marketing, press, partnerships, planning to raise more capital, and just the overall understanding of the importance of communicating who you are and why you are. We have many views here that startups find surprising.
+To us, going to market includes finding product-market fit, segmenting your market, sequencing your approaches to potential users or customers, pricing, understanding when to review and when to ignore the competition, using the various organic marketing tools, paid marketing, press, partnerships, planning to raise more capital, and just the overall understanding of the importance of communicating who you are and why you are. We have many views here that startups find surprising.
 
-We bridge multiple professional worlds -- technical, financial, corporate, philanthropic, political, social, and otherwise. We try to bring founders across those bridges early and often.
+We bridge multiple professional worlds -- technical, financial, corporate, philanthropic, political, social, and otherwise. We try to bring founders across those bridges early and often, with introductions to leaders in any of those fields and group discussions to share ideas and lessons learned that are applicable to startups.
 
 We have presence in both San Francisco and New York. We've found that SF-based founders appreciate introductions to customers in New York -- we can open that door. We make a concerted effort to help the transition from “west to east” and “east to west.”
 
 We don’t care about face time -- you won’t get a “hey let’s have coffee just to catch up” every two weeks. We do spring into action when we see the Bat Signal. We take feedback from companies on what they want. Some of our companies have asked us to do monthly, or even weekly, meetings with them, others “go into hiding” while working on their product -- we’re good either way.
 
-Because we sometimes create our own products, we stay current on tactical trends and may know them firsthand. We believe founders have as much wisdom as investors (or more) -- we’re all just trying to spark something great in this big wide world.
+Because we sometimes create our own products, we stay current on tactical trends and may know them firsthand. If you're building something that we can use on our team, we'll share product feedback and be your biggest advocate. We believe founders have as much wisdom as investors (or more) -- we’re all just trying to spark something great in this big wide world.
 
 One thing many founders don’t realize is how little direct control their investors ultimately have -- we can’t demand certain information from you unless it’s specifically written into our agreements (where we often ask only for general financial information), we won’t be able to make you hire or fire anyone -- we work with you based on mutual trust.
 
@@ -413,12 +421,12 @@ It varies. In some cases most of our communication is by email and chat, others 
 We appreciate getting regular investment updates (e.g., a monthly email) from companies we back, since it creates a background of good understanding that helps us help you. In practice, about two-thirds of companies we back are in this habit.
 
 What makes a good written update for investors?
-* The one key operational metric you believe tells the story of where you are, and how that metric changed since last time you communicated it (and relative to your expectations)
-* What you’re most excited about that you just achieved
-* What we can expect you to achieve in the near future
+* A summary (sentence!) that helps us understand how you're doing at trying to accomplish the most important thing for your startup right now -- usually we think in terms of [the risks you're trying to address](https://also.roybahat.com/instead-of-a-business-plan-write-a-thesis-plan-6de9de59daaf)
+* Usually, that means the one operational metric you believe tells the story of where you are, and how that metric changed since last time you communicated it (and relative to your expectations)
+* What you’re most excited about now
 * How you’re doing financially (cash left, burn)
 * Team additions or changes
-* Where you want help from us
+* Where you want help from us!
 
 Here is a [sample anonymized update](https://docs.google.com/document/d/1xykbjs0KnhdA2qYdvY_jm21QJdS35iETouNNe2nARJA/edit).
 
@@ -452,7 +460,7 @@ We admire and want to continue to support these kinds of communities, that openl
 
 ### Learning
 
-We recognize that founders don’t have the time to plan for their own professional growth and learning, so we offer them some of that. We might do a training on how to create useful communication with technical teams, or invite founders to a panel on a subject we think they might care about. Founders can request Turpentine Talks on topics of particular interest to them, of course.
+We recognize that founders don’t have the time to plan for their own professional growth and learning, so we offer them some of that. We might do a training on how to create useful communication with technical teams, or invite founders to a panel on a subject we think they might care about. Founders can [request](https://goo.gl/forms/qS1dehJQW5vFxYYs1) Turpentine Talks on topics of particular interest to them, of course.
 
 ### How our fund works with Bloomberg L.P.
 

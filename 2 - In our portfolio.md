@@ -12,14 +12,14 @@ Founders are our customers. In order of our announced participation:
 | [Paul Dix](https://twitter.com/pauldix), [Todd Persen](https://www.linkedin.com/in/toddpersen) | **[InfluxData](http://influxdata.com/)** |
 | [Zach Sims](https://twitter.com/zsims), [Ryan Bubinski](https://www.linkedin.com/in/ryanbubinski) | **[Codecademy](http://www.codecademy.com/)** | 
 | [Satya Patel](https://twitter.com/satyap), [Hunter Walk](https://twitter.com/hunterwalk) | **[Homebrew](http://homebrew.co/)** | 
-| [Stephen Purpura](https://www.linkedin.com/in/spurpura) | **[Context Relevant](http://www.contextrelevant.com/)** |
+| [Stephen Purpura](https://www.linkedin.com/in/spurpura) | **[Context Relevant](http://www.contextrelevant.com/)**<sup>*</sup> |
 | [Ron Palmeri](https://twitter.com/RonP), [Tomaž Štolfa](https://twitter.com/tomazstolfa) | **[Layer](https://layer.com/)** | 
 | [Naval Ravikant](https://twitter.com/naval), [Babak Nivi](https://www.linkedin.com/in/bnivi) | **[AngelList](https://angel.co/)**| 
 | [Anil Dash](http://dashes.com/anil/), [Gina Trapani](https://twitter.com/ginatrapani) | **[ThinkUp](https://www.thinkup.com/)** | 
 | [Sandi MacPherson](http://quibb.com/sandimacpherson) | Quibb | 
 | [Jason Hirschhorn](https://twitter.com/JasonHirschhorn) | **[REDEF](http://www.mediaredefined.com/)** | 
 | [Ryan Petersen](https://twitter.com/typesfast) | **[Flexport](https://www.flexport.com/)** | 
-| [Fouad ElNaggar](https://twitter.com/ThufirHawat), [Peter Yared](https://twitter.com/peteryared) | **[Sapho](http://www.sapho.com/)** | 
+| [Fouad ElNaggar](https://twitter.com/ThufirHawat), [Peter Yared](https://twitter.com/peteryared) |**[Sapho](https://www.sapho.com/)**<sup>*</sup> |
 | [Daniela Perdomo](https://twitter.com/danielaperdomo) | **[goTenna](http://gotenna.com/)** |
 | [Anne Wootton](https://twitter.com/annewootton), [Bailey Smith](https://www.linkedin.com/in/baileyrsmith) | Pop Up Archive<sup>*</sup>|
 | [Satyen Sangani](https://www.linkedin.com/in/ssangani) | **[Alation](http://alation.com/)** |
@@ -27,7 +27,7 @@ Founders are our customers. In order of our announced participation:
 | [K.V. Rao](https://www.linkedin.com/pub/k-v-rao/0/48/517) | **[Aviso](http://www.aviso.com/)** |
 | [Nadim Hossain](https://www.linkedin.com/in/nadimhossain), [Nisheeth Ranjan](https://www.linkedin.com/in/nranjan), [Ranjan Bagchi](https://www.linkedin.com/in/rbagchi) | **[BrightFunnel](http://www.brightfunnel.com/)**<sup>*</sup> |
 | [Alex Rampell](https://twitter.com/arampell), [Pasha Bitz](https://twitter.com/pashabitz), [Jonathan Wolf](https://www.linkedin.com/in/jwolf) | **[TXN](http://txn.com/)** |
-| [Eric Tilenius](https://www.linkedin.com/in/tilenius), [Pratik Verma](https://www.linkedin.com/in/pratikrverma) | **[BlueTalon Data Systems](http://bluetalon.com/)** |
+| [Eric Tilenius](https://www.linkedin.com/in/tilenius), [Pratik Verma](https://www.linkedin.com/in/pratikrverma) | **[BlueTalon Data Systems](http://bluetalon.com/)**<sup>*</sup> |
 | [Fred Seibert](https://twitter.com/fredseibert), [Yoel Flohr](https://uk.linkedin.com/in/flohr) | Thirty Labs |
 | [Eric Duffy](https://www.linkedin.com/pub/eric-duffy/29/326/101), [Jamie Davidson](https://www.linkedin.com/pub/jamie-davidson/32/451/85a) | **[Pathgather](http://www.pathgather.com/)**<sup>*</sup> |
 | [David Byrd](https://www.linkedin.com/in/davidmbyrd), [Steve Kaliski](https://www.linkedin.com/pub/steve-kaliski/10/a77/79) | Bowery |
@@ -54,8 +54,8 @@ Founders are our customers. In order of our announced participation:
 | [Raphael Crawford-Marks](https://twitter.com/raphaelcm), [John Quinn](https://www.linkedin.com/in/johndquinn) | **[Bonusly](https://bonus.ly/)** |
 | [Jason Garoutte](https://www.linkedin.com/in/garoutte), [Brian Zotter](https://www.linkedin.com/in/zotterb) | YesPath |
 | [Anthony Goldbloom](https://www.linkedin.com/in/anthonygoldbloom), [Ben Hamner](https://www.kaggle.com/benhamner) | **[Kaggle](https://www.kaggle.com/)**<sup>*</sup> |
-| [Eric Wuebben](https://twitter.com/wuebben), [Andrew Courter](https://twitter.com/covrter) | **[Highly](https://www.highly.co)** |
-| [Katie Spence](https://twitter.com/spenceke), [Ben Brown](https://twitter.com/benbrown) | **[Howdy](http://howdy.ai/)** |
+| [Eric Wuebben](https://twitter.com/wuebben), [Andrew Courter](https://twitter.com/covrter) | **[Highly](https://www.highly.co)**<sup>*</sup>|
+| [Katie Spence](https://twitter.com/spenceke), [Ben Brown](https://twitter.com/benbrown) | **[Howdy](http://howdy.ai/)**<sup>*<sup> |
 | [Justin Wohlstadter](https://twitter.com/justpw)| **[Wonder](https://askwonder.com/)** |
 | [Brendan Frey](https://en.wikipedia.org/wiki/Brendan_Frey)| **[Deep Genomics](http://www.deepgenomics.com/)** |
 | [Evan Macmillan](https://twitter.com/djmrevan) | **[Gridspace](https://www.gridspace.com)** |
@@ -63,7 +63,7 @@ Founders are our customers. In order of our announced participation:
 | [Michael W. Wellman](https://www.linkedin.com/in/mwellman), [Dmitry Dain](https://www.linkedin.com/in/dmitrydain)| **[Virgil Security](http://www.virgilsecurity.com/)** |
 | [David Gutelius](https://twitter.com/gutelius), [Chris Diehl](https://twitter.com/chrisdiehl) | **[Motiva](https://www.motiva.ai/)** |
 | [Dmitry Aksenov](https://uk.linkedin.com/in/dmitryaksenov), [Mikhail Naumov](https://www.linkedin.com/in/mikhailnaumov)| **[DigitalGenius](http://www.digitalgenius.com/)** |
-| [Arjun Singh](https://www.linkedin.com/in/arjun-singh-629216105), [Sergey Karayev](https://www.linkedin.com/in/sergeykarayev), [Ibrahim Awwal](https://www.linkedin.com/in/ibrahim-awwal-28b43a3a), [Pieter Abbeel](https://www.linkedin.com/in/pieter-abbeel-34a10a3)| **[Gradescope](https://gradescope.com/)** |
+| [Arjun Singh](https://www.linkedin.com/in/arjun-singh-629216105), [Sergey Karayev](https://www.linkedin.com/in/sergeykarayev), [Ibrahim Awwal](https://www.linkedin.com/in/ibrahim-awwal-28b43a3a), [Pieter Abbeel](https://www.linkedin.com/in/pieter-abbeel-34a10a3)| **[Gradescope](https://gradescope.com/)**<sup>*<sup> |
 | [Mike Tung](https://www.linkedin.com/in/miketung) | **[Diffbot](http://www.diffbot.com/)** |
 | [Roger Dickey](https://www.linkedin.com/in/rogerdickey), [Debo Olaosebikan](https://www.linkedin.com/in/dolaoseb) | **[Gigster](https://gigster.com/)** |
 | [Stewart Butterfield](https://twitter.com/stewart) | **[Slack](https://slack.com/)** |
@@ -80,7 +80,7 @@ Founders are our customers. In order of our announced participation:
 | [Jeff LaBarge](https://www.linkedin.com/in/jefflabarge), [Tom Shapland](https://www.linkedin.com/in/tom-shapland-b4494212)  | **[Tule Technologies](https://www.tuletechnologies.com/)** |
 | [Itzik Ben-Bassat](https://twitter.com/ibenbassat), [Aviv Eyal](https://twitter.com/avive)  | GONG!|
 | [Ryan Tseng](https://www.linkedin.com/in/ryantseng), [Andrew Reiter](https://www.linkedin.com/in/andrewreiter), [Brandon Tseng](https://www.linkedin.com/in/brandontseng)  | **[Shield AI](http://shield.ai/)**
-| [Drew Conway](https://www.linkedin.com/in/drew-conway-13b5b013) | **[Alluvium](http://www.alluvium.io)**
+| [Drew Conway](https://www.linkedin.com/in/drew-conway-13b5b013) | **[Alluvium](http://www.alluvium.io)**<sup>*</sup>|
 | [Travis Deyle](http://www.travisdeyle.com/), [Erik Schluntz](http://www.erikschluntz.com/portfolio/)| **[Cobalt Robotics](http://www.cobaltrobotics.com/)**|
 | [Adam Rogas](https://www.linkedin.com/in/adamrogas/), [Paul Korol](https://www.linkedin.com/in/paulkorol/), [Phil Vizzaccaro](https://www.linkedin.com/in/phil-vizzaccaro-5694b28/), [Eric Kay](https://www.linkedin.com/in/erickaylaw/)| **[NS8](https://www.ns8.com/)** |
 | [Pia Mancini](https://twitter.com/piamancini), [Xavier Damman](https://twitter.com/xdamman) | **[Open Collective](https://opencollective.com/)** |
@@ -102,7 +102,40 @@ Founders are our customers. In order of our announced participation:
 | [Eyal Feldman](https://www.linkedin.com/in/feldmaneyal/), [Ofer Feldman](https://www.linkedin.com/in/oferfeldman/)| **[Stampli](https://www.stampli.com/)**|
 | [Ian Eyberg](https://www.linkedin.com/in/ianeyberg/)| **[NanoVMs](https://nanovms.com/)**|
 | [Mike Dudas](https://twitter.com/mdudas)| **[The Block](https://www.theblockcrypto.com)**|
-| [Jordana Stein](https://www.linkedin.com/in/jordanastein)| **[Enrich](https://www.joinenrich.com/)**|
+| [Jordana Stein](https://www.linkedin.com/in/jordanastein)| **[enrich](https://www.joinenrich.com/)**|
 | [Joe Freed](https://www.linkedin.com/in/joefreed), [Andy Horng](https://www.linkedin.com/in/andyhorng/), [Samir Meghani](https://www.linkedin.com/in/samirmeghani/)| **[Cultivate](https://www.cultivateai.com/)**|
+| [Danny Rogers](https://www.linkedin.com/in/dannyrogers/)| **[Terbium Labs](https://terbiumlabs.com)**|
+| [Sankarshan Murthy](https://www.linkedin.com/in/sankarshan-murthy-6862b0a/), [Prahlad Athreya](https://www.linkedin.com/in/pathreya/)| **[Bumblebee Spaces](https://www.bumblebeespaces.com/)**|
+| [Madhu Chamarty](https://www.linkedin.com/in/mchamarty/), [Ross Fubini](https://www.linkedin.com/in/fubini/)| **[BeyondHQ](https://www.beyondhq.co/)**|  
+| [Krishna Gade](https://www.linkedin.com/in/krishnagade/), [Amit Paka](https://www.linkedin.com/in/amitpaka/)| **[Fiddler Labs](https://www.fiddler.ai/)**|
+| [Dan Pupius](https://www.linkedin.com/in/danpupius/), [Jennifer Dennard](https://www.linkedin.com/in/jennifer-dennard-822b0616/), [Braden Kowitz](https://www.linkedin.com/in/kowitz/)| **[Range](https://www.range.co/)**|
+| [Rahim Fazal](https://www.linkedin.com/in/rahimfazal), [Joel Scott](https://www.linkedin.com/in/joeldscott/)| **[SV Academy](https://www.sv.academy/)**|
+| [Matteo Melani](https://www.linkedin.com/in/matteomelani/), [Andrew Catton](https://www.linkedin.com/in/andrewcatton/), [Luke Andrews](https://www.linkedin.com/in/attaboy/)| **[Ellipsis](https://www.ellipsis.ai/)**| 
+| [Zack Kanter](https://www.linkedin.com/in/zkanter/)| **[Stedi](https://www.stedi.com/)**| 
+| [Brian Stone](http://linkedin.com/in/brianstone), [Karthik Vaidyanathan](https://www.linkedin.com/in/karthik-vaidyanathan/), [Ashwin Goyal](https://www.linkedin.com/in/goyalashwin/)| **[BankSight](https://banksight.com/)**<sup>*<sup> |
+| [Leo Meyerovich](https://www.linkedin.com/in/leo-meyerovich-09649219/)| **[Graphistry](https://www.graphistry.com/)**|
+| [Rufus Griscom](https://www.linkedin.com/in/rufus-griscom-16b1/), [Michael J. Kovnat](https://www.linkedin.com/in/michael-j-kovnat-4052a25/), [Panio Gianopoulos](https://www.linkedin.com/in/panio-gianopoulos-639bba4/), [Christopher Chaput](https://www.linkedin.com/in/christopher-chaput-a8529211/)| **[Heleo](https://heleo.com/)**|
+| [Nadja Oertelt](https://www.linkedin.com/in/nadjaoertelt/), [Allan Lasser](https://www.linkedin.com/in/allan-lasser-bbaa9493/)| **[Massive Science](https://massivesci.com/)**|  
+| [Arthur Lozinski](https://www.linkedin.com/in/arthurlozinski/), [Trent Seed](https://www.linkedin.com/in/trentmseed/), [Ramin Ettehad](https://www.linkedin.com/in/ramin1/)| **[Oomnitza](https://www.oomnitza.com/)**|  
+| [Jeff Haynie](https://www.linkedin.com/in/jhaynie/), [Nolan Wright](https://www.linkedin.com/in/nolan-wright-32b84213a/)| **[Pinpoint](https://pinpoint.com/)**| 
+| [Sean Gourley](https://www.linkedin.com/in/sgourley/)| **[Primer](https://primer.ai/)**| 
+| [Fima Leshinsky](https://www.linkedin.com/in/fimaleshinsky/), [Michael Pollack](https://www.linkedin.com/in/mpollack/), [Giv Parvaneh](https://www.linkedin.com/in/givparvaneh/)| **[Intricately](https://www.intricately.com/)**|
+| [Teddy Cha](https://www.linkedin.com/in/teddycha/), [Hai Po Sun](https://www.linkedin.com/in/haipo/)| **[pulseData](https://pulsedata.io/)**| 
+| [Tade Oyerinde](https://www.linkedin.com/in/tadeoyerinde/)| **[Campuswire](https://campuswire.com/)**| 
+| [Alex Marlantes](https://www.linkedin.com/in/alexandermarlantes/), [Gabriel Garza Rodríguez](https://www.linkedin.com/in/garzagabriel/)| **[Everlance](https://www.everlance.com/)**| 
+| [Adrien Treuille](https://www.linkedin.com/in/adrien-treuille-52215718/), [Nodira Khoussainova](https://www.linkedin.com/in/nodira-khoussainova-74540267/), [Thiago Teixeira](https://www.linkedin.com/in/thiago-teixeira-1244a116/)| **[Streamlit](https://streamlit.io/)**|
+| [Krishna Yarlagadda](https://www.linkedin.com/in/krishna-yarlagadda-800114/), [Nava Davuluri](https://www.linkedin.com/in/navadavuluri/)| **[Huddl](https://www.huddl.ai/)**| 
+| [Mike Kadin](https://www.linkedin.com/in/michael-kadin-a341571b/), [Jeremy Lermitte](https://www.linkedin.com/in/jeremy-lermitte-9153b72a/)| **[RedCircle](https://www.getredcircle.com/)**|   
+| [Saurabh Bajaj](https://www.linkedin.com/in/bajajs/)| **[Swiftlane](https://www.swiftlane.com/)**|
+| [Gadi Shamia](https://www.linkedin.com/in/gadis/), [Ben Gleitzman](https://www.linkedin.com/in/gleitz/)| **[Replicant](http://www.replicant.ai/)**|
+| [Vikram Chandra](https://www.linkedin.com/in/vikram-chandra/), [Borislav Iordanov](https://www.linkedin.com/in/borislav-iordanov-17a1152/)| **[Granthika](https://granthika.co/)**|
+| [Danielle Baskin](https://www.linkedin.com/in/danielle-baskin/), [Max Hawkins](https://www.linkedin.com/in/maxhawkins/)| **[Dialup](https://dialup.com/)**|
+| [Katherine Lehr](https://www.linkedin.com/in/katherine-lehr-56338197/), [Tom McGeveran](https://www.linkedin.com/in/tom-mcgeveran-a579092a/), [Josh Benson](https://www.linkedin.com/in/josh-benson-8a633221/)  | **[Old Town Media](http://www.oldtownmedianyc.com/)** |
+| [Max Simkoff](https://www.linkedin.com/in/maxsimkoff/)| **[States Title](https://statestitle.com/)**|
+| [Ian Smith](https://www.linkedin.com/in/ismithdrone/), [Joseph Moster](https://www.linkedin.com/in/joseph-moster/)| **[Ware](https://www.getware.com)**|
+| [Tiffany Dufu](https://www.linkedin.com/in/tiffanydufu/)| **[The Cru](https://www.thecru.com/)**|  
+| [Sherveen Mashayekhi](https://www.linkedin.com/in/sherveenm/), [Alex Rothberg](https://www.linkedin.com/in/alex-g-rothberg/)| **[Free Agency](https://www.freeagency.com/)**|
+| [Tom Coates](https://www.linkedin.com/in/tecoates/), [Rabble](https://www.linkedin.com/in/rabble/), [Christoph Moskalonek](https://www.linkedin.com/in/hermiteer/)| **[Planetary](https://planetary.social/)**|
+| [Turi Munthe](https://www.linkedin.com/in/turimunthe/), [J. Paul Neeley](https://www.linkedin.com/in/jpaulneeley/)| **[Parlia](https://parlia.com/)**|
 
 <sup>*</sup> Acquired :thumbsup:

@@ -3,7 +3,7 @@
 ### Why we exist
 We believe we are seeing profound changes in the way business works. Our investor, Bloomberg L.P., wants to support and understand these changes. Backing and building startups is a wonderful way to do that, so we created Bloomberg Beta. **Below is a snapshot of how we think, including a link to our previously-internal [operating manual](https://github.com/Bloomberg-Beta/Manual/blob/master/1%20-%20Manual.md) —  with many details on how we work.**
 
-Bloomberg Beta is an early-stage venture firm backed by [Bloomberg L.P.](http://www.bloomberg.com/company/bloomberg-facts/?utm_source=bloomberg-menu), investing out of a $75M fund focused broadly on the future of work. (We are now investing out of our second fund. The first was the same size, so we now have $150M in total under management.) While we focus on general areas of interest to Bloomberg, we choose our investments independently, without preference for companies who have or want a relationship with Bloomberg. We invest for financial return. We do see Bloomberg as a template for startups — founded on a powerful idea, bringing transparency to markets, achieving global scale, with a strong and open culture that embraces technology, led by its founders for decades. To serve our founders, we seek — like the rest of Bloomberg — to bring different worlds together (business, technology, culture, the public sector, among others).
+Bloomberg Beta is an early-stage venture firm backed by [Bloomberg L.P.](https://www.bloomberg.com/company/), investing out of a $75M fund focused broadly on the future of work. (We are now investing out of our third fund, which is the same size and focus as the first two funds, so we now have $225M in total under management.) While we focus on general areas of interest to Bloomberg, we choose our investments independently, without preference for companies who have or want a relationship with Bloomberg. We invest for financial return. We do see Bloomberg as a template for startups — founded on a powerful idea, bringing transparency to markets, achieving global scale, with a strong and open culture that embraces technology, led by its founders for decades. To serve our founders, we seek — like the rest of Bloomberg — to bring different worlds together (business, technology, culture, the public sector, among others).
 
 ### Why our website is on GitHub
 In treating our founders as our customers, we often think about how to build as much trust as possible with them. We believe transparency — in how we think, what we believe and why — is the first step to that trust.
@@ -26,13 +26,11 @@ Harley Sugarman — [Twitter](https://twitter.com/harleysugarman) // [LinkedIn](
 
 Minn Kim — [Twitter](https://twitter.com/minney_cat) // [LinkedIn](https://www.linkedin.com/in/minnkim/)
 
-Taylor Wentz Brown - [LinkedIn](https://www.linkedin.com/in/taylorawentz/)
+Angela Martin — [LinkedIn](https://www.linkedin.com/in/martinangela/)
 
-Maria Sharp - [LinkedIn](https://www.linkedin.com/in/maria-sharp-991966160)
+Lisa Wehden — [LinkedIn](https://www.linkedin.com/in/lisa-wehden-aa111385)
 
 Shivon Zilis — [Twitter](https://twitter.com/shivon) // [LinkedIn](https://www.linkedin.com/pub/shivon-zilis/7/b35/281)
-
-Shaina Conners — [Twitter](https://twitter.com/shainaconners) // [LinkedIn](https://www.linkedin.com/in/shainaconners)
 
 ### Where we work
 San Francisco — [140 New Montgomery St., 22nd fl](http://goo.gl/49X6hu)
